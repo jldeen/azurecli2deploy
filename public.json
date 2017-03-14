@@ -1,0 +1,4 @@
+{
+    "fileUris": ["[path-uri-goes-here"],
+    "commandToExecute": "./yum_install.sh"
+}
